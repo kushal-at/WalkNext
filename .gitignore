@@ -18,3 +18,10 @@ local.properties
 gradle.zip
 deps.txt
 .logs
+
+# Antigravity IDE workspace config (internal tooling only)
+.agents/
+
+# Release artifacts (distributed via GitHub Releases, not source control)
+Release.apk
+source.zip
